@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">test_practical_bun</string>
+    <string-array name="information_types">
+        <item>Temperature</item>
+        <item>Humidity</item>
+        <item>Wind Speed</item>
+        <item>Pressure</item>
+        <item>Condition</item>
+        <item>All</item>
+    </string-array>
 </resources>
